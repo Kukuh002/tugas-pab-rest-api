@@ -10,7 +10,7 @@ Project ini adalah tugas pembuatan REST API sederhana menggunakan **Express.js**
 * MySQL (via Laragon)
 
 ## Persiapan (Prerequisites)
-Pastikan kamu sudah menginstal perangkat lunak berikut di komputermu:
+Pastikan sudah menginstal perangkat lunak berikut di komputermu:
 * [Node.js](https://nodejs.org/)
 * [Laragon](https://laragon.org/) (atau XAMPP untuk MySQL)
 * Postman atau ekstensi Thunder Client untuk menguji API

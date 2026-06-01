@@ -1,4 +1,4 @@
-# ANDIKA KUKUH PRASETYO-5210411413
+# ANDIKA KUKUH PRASETYO - 5210411413
 # REST API Sederhana - Manajemen Produk
 
 Project ini adalah tugas pembuatan REST API sederhana menggunakan **Express.js**, **Sequelize (ORM)**, dan **MySQL** dengan arsitektur MVC (Model-View-Controller). API ini menyediakan fungsionalitas CRUD (Create, Read, Update, Delete) untuk data Produk.

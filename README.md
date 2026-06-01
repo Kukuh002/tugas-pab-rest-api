@@ -15,10 +15,9 @@ Pastikan sudah menginstal perangkat lunak berikut di komputermu:
 * [Laragon](https://laragon.org/) (atau XAMPP untuk MySQL)
 * Postman atau ekstensi Thunder Client untuk menguji API
 
-## Cara Instalasi & Menjalankan Project
 1. **Clone repositori ini**
    ```bash
-   git clone [https://github.com/username-kamu/tugas-pab-rest-api.git](https://github.com/username-kamu/tugas-pab-rest-api.git)
+   git clone [https://github.com/Kukuh002/tugas-pab-rest-api.git]
    cd tugas-pab-rest-api
 
 2. Instal dependencies
